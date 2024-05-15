@@ -31,4 +31,4 @@ Read it right-to-left: “p is a pointer to an X that is constant.”
 There is no need to write QAEND at the end of the file.
 ```
 
-![Image]()
+![Image](https://github.com/PyXiion/mdbook-qa/assets/59997570/e7acf4a0-acdc-4914-b1c5-0f26238546c9)
